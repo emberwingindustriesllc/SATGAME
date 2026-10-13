@@ -1,6 +1,0 @@
-{
-  "name": "Scholar's Journey",
-  "description": "Retro GBA Pokemon-inspired SAT prep RPG where players battle and capture Scholarmon by solving SAT Math and Reading/Writing problems.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

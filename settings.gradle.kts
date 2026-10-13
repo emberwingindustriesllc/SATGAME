@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Scholars Journey"
+rootProject.name = "SAT Masters"
 
 include(":app")
